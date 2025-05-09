@@ -1,1 +1,33 @@
 # Assignment-2
+## Description
+
+This repository includes simple Python scripts that demonstrate fundamental programming concepts such as loops, conditionals, and arithmetic operations.
+
+🔢 Task 1: Check if a Number is Even or Odd
+Description:
+This script allows the user to input an integer and uses an if-else statement to determine whether the number is even or odd. The result is then displayed on the screen.
+
+Key Concepts:
+User input
+
+Modulus operator (%)
+
+Conditional (if-else) statements
+
+➕ Task 2: Sum of Numbers from 1 to 50
+Description:
+This script uses a for loop to iterate through the numbers from 1 to 50, calculates the sum of all these integers, and displays the final result.
+
+Key Concepts:
+for loops
+
+Accumulating totals
+
+Range-based iteration
+
+## Output 
+
+Task 1
+
+
+
