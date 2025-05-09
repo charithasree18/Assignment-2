@@ -35,6 +35,7 @@ Task 1
 
 Task 2
 
+![Image](https://github.com/user-attachments/assets/f5d49d91-f32a-4573-9bd5-960bea5ed7fb)
 
 
 
