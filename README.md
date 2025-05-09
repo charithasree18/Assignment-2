@@ -29,5 +29,11 @@ Range-based iteration
 
 Task 1
 
+![Image](https://github.com/user-attachments/assets/96ea1883-d176-442d-be08-57dbad197726)
+
+Task 2
+
+
+
 
 
